@@ -5,6 +5,8 @@ public class Main {
 
         // inheritance = 	the process where one class acquires,
         //					the attributes and methods of another.
+        // Vehicle is the super class (parent class)
+        // Car and bicycle are the subclasses of the Vehicle class (child classes)
 
         Car car = new Car();
 
